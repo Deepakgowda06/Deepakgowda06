@@ -1,3 +1,9 @@
+
+
+<a href="https://github.com/Deepakgowda06" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+</a>
+
 <h1 align="center">Hi 👋, I'm Deepak Gowda K G</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
