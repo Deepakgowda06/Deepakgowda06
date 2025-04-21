@@ -10,7 +10,10 @@
   
 - 💬 Ask me about **Django, Flask and Python**
   
-- 📫 How to reach me: **deepakgowda747@gmail.com**
+- 📫 How to reach me : **deepakgowda747@gmail.com**
+
+- 📄 Know about my experiences : [Click here to view my experiences](https://drive.google.com/file/d/1PdUgnkoi5Hn4Zh-qefqv4jQEKTtCWpiu/view?usp=drivesdk)
+
 
 ---
 
