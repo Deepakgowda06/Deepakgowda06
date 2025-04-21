@@ -3,9 +3,13 @@
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 - 🔭 I’m currently working on **Calories Estimation Using Deep Learning**
+  
 - 🌱 I’m currently learning **Full Stack Development**
+  
 - 🤝 I’m looking to collaborate on **Full Stack Projects**
+  
 - 💬 Ask me about **Django, Flask and Python**
+  
 - 📫 How to reach me: **deepakgowda747@gmail.com**
 
 ---
@@ -17,7 +21,6 @@
   </a>
 </p>
 
----
 
 ### 🛠️ Languages and Tools:
 <p align="left">
