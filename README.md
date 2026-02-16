@@ -1,55 +1,55 @@
-
-<h1 align="center">Hi 👋, I'm Deepak Gowda K G</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
-
-- 🔭 I’m currently working on **Calories Estimation Using Deep Learning**
-  
-- 🌱 I’m currently learning **Full Stack Development**
-  
-- 🤝 I’m looking to collaborate on **Full Stack Projects**
-  
-- 💬 Ask me about **Django, Flask and Python**
-  
-- 📫 How to reach me : **deepakgowda747@gmail.com**
-
-- 👨‍💻 All of my projects are available at : [Click here to view my projects](https://www.devcase.me/Deepakgowda06)
-
-- 📄 Know about my experiences : [Click here to view my experiences](https://drive.google.com/file/d/1PdUgnkoi5Hn4Zh-qefqv4jQEKTtCWpiu/view?usp=drivesdk)
-
+<h1 align="center">Hi 👋, I'm Deepak Gowda</h1>
+<h3 align="center">Software Engineer | Python | Django | React | Full Stack Developer</h3>
 
 ---
 
-### 🔗 Connect with me:
+### 👨‍💻 About Me
+- 🔭 Currently working on **AI-based Calorie Estimation using Deep Learning**
+- 🌱 Continuously learning and improving skills in **Full Stack Development**
+- 🤝 Open to collaborate on **Web Development / Full Stack Projects**
+- 💬 Ask me about **Python, Django, REST APIs, and Web Development**
+- 📫 Reach me at: **deepakgowda747@gmail.com**
+- 🌐 Portfolio / Projects: **https://www.devcase.me/Deepakgowda06**
+- 📄 Resume: **https://drive.google.com/file/d/1PdUgnkoi5Hn4Zh-qefqv4jQEKTtCWpiu/view**
+
+---
+
+### 🔗 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/deepak-gowda-k-g-73605a292/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"/>
   </a>
 </p>
 
+---
 
-### 🛠️ Languages and Tools:
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  </a>
-  <a href="https://en.cppreference.com/w/c" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C Language" />
-  </a>
-  <a href="https://docs.oracle.com/en/java/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  </a>
-  <a href="https://www.djangoproject.com/start/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" />
-  </a>
-  <a href="https://dev.mysql.com/doc/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  </a>
-  <a href="https://www.postgresql.org/docs/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-  </a>
-</p>
+### 🛠️ Tech Stack
+
+**Languages:** Python, JavaScript  
+**Frontend:** HTML, CSS, React.js  
+**Backend:** Django, Django REST Framework, Flask  
+**Database:** MySQL, PostgreSQL  
+**Tools:** Git, GitHub, REST API, Debugging, API Integration  
 
 ---
+
+### 🚀 Key Projects
+
+**🚌 Online Bus Ticket Booking System**  
+- Full-stack web application using React and Django  
+- Implemented authentication, booking, and REST API integration  
+
+**🥗 AI Calorie Tracker (SmartBite)**  
+- Deep learning model for food recognition and calorie estimation  
+- Built using Python and Flask  
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepakgowda06&show_icons=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepakgowda06&layout=compact" />
+</p>
